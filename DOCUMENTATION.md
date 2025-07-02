@@ -112,7 +112,7 @@ vercel --prod
 ```
 
 ### **URLs de production**
-- **Application** : https://smartstock-ci.vercel.app
+- **Application** : https://smartstock-ci-mlmy.vercel.app/
 - **Repository** : https://github.com/Mohkone01/smartstock-ci
 - **Dashboard Vercel** : https://vercel.com/mohkone01/smartstock-ci
 
