@@ -240,5 +240,5 @@ Cette documentation complète couvre tous les aspects de SmartStock CI, de l'uti
 ---
 
 *Index de documentation SmartStock CI v1.0.0*
-*Dernière mise à jour : 2024-12-XX*
+*Dernière mise à jour : 2025-07-02*
 *Statut : Complet et validé*
