@@ -20,7 +20,7 @@ SmartStock CI est votre assistant intelligent pour gérer votre commerce en Côt
 
 ### **1. Accéder à l'application**
 - Ouvrez votre navigateur (Chrome, Firefox, Safari)
-- Allez sur : **https://smartstock-ci.vercel.app**
+- Allez sur : **https://smartstock-ci-mlmy.vercel.app/**
 - L'application fonctionne sur ordinateur, tablette et mobile
 
 ### **2. Créer votre compte**
@@ -275,4 +275,4 @@ Le tableau de bord principal affiche :
 
 *Guide utilisateur SmartStock CI v1.0.0*
 *Spécialement conçu pour les commerçants ivoiriens* 🇨🇮
-*Application disponible 24h/24 sur https://smartstock-ci.vercel.app*
+*Application disponible 24h/24 sur https://smartstock-ci-mlmy.vercel.app/*
