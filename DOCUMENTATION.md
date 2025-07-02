@@ -387,6 +387,6 @@ Cette application a été développée en tenant compte des spécificités du ma
 
 ---
 
-*Documentation mise à jour le : 2024-12-XX*
+*Documentation mise à jour le : 2025-07-02*
 *Version de l'application : 1.0.0*
 *Statut du déploiement : ✅ En ligne sur Vercel*
