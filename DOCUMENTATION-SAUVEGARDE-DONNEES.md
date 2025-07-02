@@ -634,7 +634,7 @@ async function checkDataIntegrity() {
 
 ---
 
-*Documentation mise à jour le : 2024-12-XX*
+*Documentation mise à jour le : 2025-07-02*
 *Version SmartStock CI : 1.0.0*
 *Modes supportés : Web + Logiciel (Electron)*
 ```
