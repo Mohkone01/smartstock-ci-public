@@ -1,0 +1,7 @@
+# Fichiers … ignorer 
+.DS_Store 
+Thumbs.db 
+*.log 
+node_modules/ 
+.env 
+.env.local 
