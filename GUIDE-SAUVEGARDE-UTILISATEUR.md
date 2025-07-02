@@ -27,7 +27,7 @@
 
 #### **Création de compte**
 ```
-1. Allez sur : https://smartstock-ci.vercel.app
+1. Allez sur : https://smartstock-ci-mlmy.vercel.app/
 2. Cliquez sur "Créer un compte"
 3. Choisissez un nom pour votre magasin (ex: "Boutique_Koumassi")
 4. Créez un mot de passe sécurisé
