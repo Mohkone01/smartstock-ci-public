@@ -136,7 +136,7 @@ SmartStock CI est une solution complète et intelligente spécialement conçue p
 ## 🚀 Accès à l'Application
 
 ### 🌐 **Version Web (Recommandée)**
-**URL :** [https://smartstock-ci.vercel.app](https://smartstock-ci.vercel.app)
+**URL :** [https://smartstock-ci-mlmy.vercel.app/](https://smartstock-ci-mlmy.vercel.app/)
 
 - ✅ **Accès immédiat** sans installation
 - ✅ **Mises à jour automatiques**
@@ -155,7 +155,7 @@ SmartStock CI est une solution complète et intelligente spécialement conçue p
 
 ### 1️⃣ **Accès Rapide**
 ```
-1. Aller sur : https://smartstock-ci.vercel.app
+1. Aller sur : https://smartstock-ci-mlmy.vercel.app/
 2. Cliquer sur "Créer un compte"
 3. Choisir un nom pour votre magasin
 4. Commencer à utiliser immédiatement !
@@ -243,26 +243,11 @@ SmartStock CI est une solution complète et intelligente spécialement conçue p
 
 ---
 
-## 🏆 Témoignages
-
-> *"SmartStock CI a révolutionné la gestion de ma boutique. Interface simple, calculs automatiques, je recommande !"*
-> 
-> **- Aminata K., Commerçante à Abidjan**
-
-> *"Enfin une solution pensée pour nous, les commerçants ivoiriens. La TVA se calcule automatiquement !"*
-> 
-> **- Ibrahim S., Grossiste à Bouaké**
-
-> *"L'application fonctionne parfaitement sur mon téléphone. Je peux gérer mon stock partout !"*
-> 
-> **- Fatou D., Pharmacienne à San-Pédro**
-
----
 
 ## 🎉 Commencez Dès Aujourd'hui !
 
 ### 🚀 **Accès Immédiat**
-**[👉 ACCÉDER À SMARTSTOCK CI 👈](https://smartstock-ci.vercel.app)**
+**[👉 ACCÉDER À SMARTSTOCK CI 👈](https://smartstock-ci-mlmy.vercel.app/)**
 
 ### 📱 **Installation Mobile**
 1. Ouvrir le lien sur votre téléphone
