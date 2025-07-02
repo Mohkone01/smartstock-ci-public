@@ -199,7 +199,7 @@ npm run build
 
 ### **5.1 URLs à vérifier**
 
-- **Application** : `https://smartstock-ci.vercel.app`
+- **Application** : `https://smartstock-ci-mlmy.vercel.app/`
 - **Dashboard Vercel** : `https://vercel.com/votre-username/smartstock-ci`
 - **Repository GitHub** : `https://github.com/votre-username/smartstock-ci`
 
@@ -312,7 +312,7 @@ vercel ls
 
 Une fois toutes les étapes complétées :
 
-- ✅ **Application en ligne** : https://smartstock-ci.vercel.app
+- ✅ **Application en ligne** : https://smartstock-ci-mlmy.vercel.app/
 - ✅ **Performance optimale** : Chargement rapide mondial
 - ✅ **Sécurité** : HTTPS et headers sécurisés
 - ✅ **Scalabilité** : Auto-scaling Vercel
