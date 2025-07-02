@@ -283,4 +283,4 @@ SmartStock CI est une solution complète et intelligente spécialement conçue p
 ---
 
 *© 2024 SmartStock CI - Tous droits réservés*
-*Version 1.0.0 - Documentation mise à jour le 2024-12-XX*
+*Version 1.0.0 - Documentation mise à jour le 2025-07-02*
